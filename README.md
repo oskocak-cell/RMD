@@ -1,2 +1,3 @@
-# RMD
-RS RMD Class 2025 Week 1 Practice
+# RMD Class 2025
+This is my first GitHub repository for the Reproducibility & Model Deployment course.  
+Author: Ozan Safak Kocak
