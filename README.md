@@ -4,3 +4,6 @@ Author: Ozan Safak Kocak
 ## About this Repo
 This is my first GitHub repository for the RMD course.
 ### Edited on GitHub Web
+## About Me
+Hi, I’m <Your Name>.
+I’m learning how to use GitHub Issues.
