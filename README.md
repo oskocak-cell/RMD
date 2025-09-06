@@ -7,3 +7,4 @@ This is my first GitHub repository for the RMD course.
 ## About Me
 Hi, I’m <Your Name>.
 I’m learning how to use GitHub Issues.
+# trying see
