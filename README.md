@@ -13,3 +13,9 @@ Hello world!
 
 # Git Buddy Test
 Test to check whether it's working.
+
+# Git Buddy Test (Trial 2)
+Let's test it!
+
+# Git Buddy Test (Trial 3)
+Come on!
