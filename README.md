@@ -8,3 +8,5 @@ This is my first GitHub repository for the RMD course.
 Hi, I’m <Your Name>.
 I’m learning how to use GitHub Issues.
 # trying see
+## Fun Fact
+Hello world!
