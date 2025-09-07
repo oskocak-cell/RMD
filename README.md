@@ -10,3 +10,6 @@ I’m learning how to use GitHub Issues.
 # trying see
 ## Fun Fact
 Hello world!
+
+# Git Buddy Test
+Test to check whether it's working.
